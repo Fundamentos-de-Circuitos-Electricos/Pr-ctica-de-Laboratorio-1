@@ -2,3 +2,5 @@
 Leyes de Kirchhoff
 
 Adrian ortega tu machooo
+
+Johan Flores
