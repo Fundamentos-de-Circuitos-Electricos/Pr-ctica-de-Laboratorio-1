@@ -1,3 +1,3 @@
 # Pr-ctica-de-Laboratorio-1
 Leyes de Kirchhoff
-Johan Flores
+Adrian ortega tu machooo
