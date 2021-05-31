@@ -3,16 +3,10 @@ Leyes de Kirchhoff
 
 Adrian ortega tu machooo
 
-asfsdfjsalkdfsdaljfasdlfs
-
-askfjsldkfjlsdjflsajdfasdkfjas
-
-lkasdlfjaslkdjfalsjdfa
-
-lajsdkfslkdflasjflasjfaf
-
-lkasdkfjlskaljfajlfkdajlfja
-lkadjfalsjlfkajf
-_ajlkajdlfjasldjfa
-
 Johan Flores
+
+choclo mudo
+
+circuitos 
+
+ley de ohm 
