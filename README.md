@@ -23,3 +23,5 @@ choclo mudo
 circuitos 
 
 ley de ohm 
+
+![image](https://user-images.githubusercontent.com/84390820/120250392-91399700-c243-11eb-883e-7568776b88f8.png)
