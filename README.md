@@ -5,11 +5,11 @@ _________________________________________________
    
 UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
-Dpto. Electrica y Electronica
+Dpto. Eléctrica y Electónica
 
-Ingenieria Electronica y Automatizacion 
+Ingeniería Electrónica y Automatización 
 
-Fundamentos de Circuitos Electricos
+Fundamentos de Circuitos Eléctricos
 
 NRC: 5406
 
