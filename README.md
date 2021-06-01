@@ -1,27 +1,29 @@
-# Practica de laboratorio
-Leyes de Kirchhoff
+# Práctica de laboratorio 1 - Leyes de Kirchhoff
+_________________________________________________
 
-ESPE
+![image](https://user-images.githubusercontent.com/85137398/120397028-36647600-c2fd-11eb-9941-39cad75ae72d.png)                                                                   
+   
+UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
-ESPE
+Dpto. Electrica y Electronica
 
-ESPE 
+Ingenieria Electronica y Automatizacion 
 
-ESPE
+Fundamentos de Circuitos Electricos
 
-ESPE
+NRC: 5406
+
+Integrantes: Flores Granda Johan,Ortega Adrian,Paucar Lucio.
+
+________________________________________________________________________________
+1. OBJETIVOS DE LA PRÁCTICA
+
+2. MARCO TEORICO
 
 
-![image](https://user-images.githubusercontent.com/84390820/120250011-54b96b80-c242-11eb-84db-1fe5377095ff.png)
 
-Adrián ortega tu machooo
 
-Johan Flores
 
-choclo mudo
 
-circuitos 
+                      
 
-ley de ohm 
-
-![image](https://user-images.githubusercontent.com/84390820/120250392-91399700-c243-11eb-883e-7568776b88f8.png)
