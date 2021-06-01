@@ -1,4 +1,4 @@
-# Pr-ctica-de-Laboratorio-1
+# Practica de laboratorio
 Leyes de Kirchhoff
 
 ESPE
