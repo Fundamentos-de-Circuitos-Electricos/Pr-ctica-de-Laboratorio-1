@@ -31,7 +31,15 @@ ________________________________________________________________________________
 
 General
 
-* Investigar las leyes de Kirchoff de voltaje y de corriente mediante documentos de información teórica de eléctrica y electrónica para el análisis de circuitos y su aplicación en mallas, nodos o en cada uno de los componentes pasivos o activos como resitores, capacitores o inductores en los distintos tipos de circuitos como serie y paralelo. 
+* Investigar las Leyes de Kirchoff de voltaje y de corriente mediante documentos de información teórica de eléctrica y electrónica para el análisis de circuitos y su aplicación en mallas, ramas, nodos o en cada uno de los componentes pasivos o activos como resitores, capacitores o inductores en los distintos tipos de circuitos como serie y paralelo. 
+
+Específicos
+
+* Conocer las definiciones de nodo, rama y malla en los tipos de circuitos eléctricos. 
+
+* Interpretar y aplicar las leyes de Kirchoff en circuitos paralelos y en serie.
+
+* Calcular mediante leyes de Kirchoff la intensidad y voltajes de circuitos. 
 
 
 2. MARCO TEORICO
