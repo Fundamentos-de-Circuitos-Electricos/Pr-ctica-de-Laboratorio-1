@@ -8,11 +8,11 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
    
 
 
-DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES
+Departamento de Eléctrica y Electrónica y Automatización
 
-CARRERA DE INGIENERÍA ELECTRÓNICA Y AUTOMATIZACIÓN
+Carrera de Ingenería Electrónica y Automatización
 
-FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
+Fundamentos de Circuitos Eléctricos
 
 NRC: 5406
 
