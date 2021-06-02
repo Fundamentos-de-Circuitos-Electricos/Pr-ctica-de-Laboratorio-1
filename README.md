@@ -3,19 +3,26 @@ _________________________________________________
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
+
 ![image](https://user-images.githubusercontent.com/85137398/120397028-36647600-c2fd-11eb-9941-39cad75ae72d.png)                                                                   
    
 
 
-Dpto. Eléctrica y Electónica
+DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES
 
-Ingeniería Electrónica y Automatización 
+CARRERA DE INGIENERÍA ELECTRÓNICA Y AUTOMATIZACIÓN
 
-Fundamentos de Circuitos Eléctricos
+FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
 
 NRC: 5406
 
-Integrantes: Flores Granda Johan,Ortega Adrian,Paucar Lucio.
+Integrantes:
+
+Flores Granda Johan
+
+Ortega Adrian
+
+Paucar Lucio.
 
 ________________________________________________________________________________
 1. OBJETIVOS DE LA PRÁCTICA
