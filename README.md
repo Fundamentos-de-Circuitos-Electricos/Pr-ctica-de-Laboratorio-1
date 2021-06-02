@@ -1,9 +1,11 @@
 # Práctica de laboratorio 1 - Leyes de Kirchhoff
 _________________________________________________
 
+UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
+
 ![image](https://user-images.githubusercontent.com/85137398/120397028-36647600-c2fd-11eb-9941-39cad75ae72d.png)                                                                   
    
-UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
+
 
 Dpto. Eléctrica y Electónica
 
