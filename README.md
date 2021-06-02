@@ -1,31 +1,34 @@
-# Práctica de laboratorio 1 - Leyes de Kirchhoff
-_________________________________________________
 
-UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
+*UNIVERSIDAD DE LAS FUERZAS ARMADAS  ESPE*
 
 
 ![image](https://user-images.githubusercontent.com/85137398/120397028-36647600-c2fd-11eb-9941-39cad75ae72d.png)                                                                   
    
 
 
-Departamento de Eléctrica y Electrónica y Automatización
+*Departamento de Eléctrica y Electrónica y Automatización*
 
-Carrera de Ingenería Electrónica y Automatización
+*Carrera de Ingenería Electrónica y Automatización*
 
-Fundamentos de Circuitos Eléctricos
+*Fundamentos de Circuitos Eléctricos*
 
-NRC: 5406
+*NRC: 5406*
 
-Integrantes:
+*Integrantes:*
 
-Flores Granda Johan
+*Flores Granda Johan*
 
-Ortega Adrian
+*Ortega Adrian*
 
-Paucar Lucio.
+*Paucar Lucio*
+
+*Sangolqui, 03 de Junio del 20221*
+
 
 ________________________________________________________________________________
-1. OBJETIVOS DE LA PRÁCTICA
+# Informe de Laboratorio 
+
+1. OBJETIVOS
 
 2. MARCO TEORICO
 
