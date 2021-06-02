@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 General
 
-* Investigar las leyes de Kirchoff de voltaje y de corriente mediante documentos de información teóricos eléctrica y electrónica para el análisis de circuitos y su aplicación en cada uno de los componentes pasivos o activos como resitores, capacitores o inductores en los distintos tipos de circuitos como serie y en paralelo. 
+* Investigar las leyes de Kirchoff de voltaje y de corriente mediante documentos de información teórica de eléctrica y electrónica para el análisis de circuitos y su aplicación en mallas, nodos o en cada uno de los componentes pasivos o activos como resitores, capacitores o inductores en los distintos tipos de circuitos como serie y paralelo. 
 
 
 2. MARCO TEORICO
