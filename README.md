@@ -75,9 +75,9 @@ Planteamos la ecuación de la Malla de I2
 
 Simplificamos las ecuaciones
 
-1)	6.7kΩ· I1 - 3.9kΩ· I2 = 10
+*	6.7kΩ· I1 - 3.9kΩ· I2 = 10
 
-2)	-3.9kΩ· I1 + 8.3kΩ· I2 = 0
+*	-3.9kΩ· I1 + 8.3kΩ· I2 = 0
 
 Resolvemos el sistema de ecuaciones por método de reducción de Gauss Jordan, obteniendo como resultado: 
 
@@ -93,6 +93,21 @@ Para encontrar I3 despejamos de la ecuación
 
 I3 = I1 – I2 = 2.05 mA - 0.965 mA = 1.09 mA    
 
+Después para obtener los valores de los voltajes realizamos Ley de Ohm 
+
+* Voltaje R1: VR1 = I1·R1 = 2.05 mA·1kΩ = 2.05 V 
+
+* Voltaje R2: VR2 = I3·R2 = 1.09 mA·3.9kΩ = 4.251 V 
+
+* Voltaje R3: VR3 = I2·R3 = 0.965 mA·2.2kΩ = 2.123 V 
+
+* Voltaje R4: VR4 = I2·R4 = 0.965 mA·2.2kΩ = 2.123 V 
+
+* Voltaje R5: VR5 = I1·R5 = 2.05 mA·1.8kΩ = 3.69 V 
+
+Finalmente, completamos la tabla con los resultados obtenidos: 
+
+![image](https://user-images.githubusercontent.com/84390820/120716686-fed80400-c48b-11eb-9969-9b5c4e42d2fc.png)
 
 
 
