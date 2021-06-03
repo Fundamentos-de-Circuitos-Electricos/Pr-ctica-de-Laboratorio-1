@@ -61,6 +61,37 @@ Procedimiento
 
 A continuación calculamos los valores teóricos de corriente y voltaje de los elementos pasivos, para completar la siguiente tabla: 
 
+Aplicamos la Ley de Mallas de Kirchhoff
+
+![image](https://user-images.githubusercontent.com/84390820/120714766-414c1180-c489-11eb-8e59-3254bf3d4bf1.png)
+
+Planteamos la ecuación de la Malla de I1 
+
+1kΩ· I1 + 3.9kΩ· I1 + 1.8kΩ· I1 - 3.9kΩ· I2 = 10
+
+Planteamos la ecuación de la Malla de I2 
+
+2.2kΩ· I2 + 2.2kΩ· I2 + 3.9kΩ· I2 - 3.9kΩ· I1 = 0
+
+Simplificamos las ecuaciones
+
+1)	6.7kΩ· I1 - 3.9kΩ· I2 = 10
+
+2)	-3.9kΩ· I1 + 8.3kΩ· I2 = 0
+
+Resolvemos el sistema de ecuaciones por método de reducción de Gauss Jordan, obteniendo como resultado: 
+
+I1 = 2.05 mA
+
+I2 = 0.965 mA     
+
+Por último, definimos una tercera ecuación en la cual sería por la Ley de Nodos de Kirchhoff. Las corrientes que entran a un nodo son iguales a las corrientes que salen. 
+
+Entonces, I1 = I2 + I3 
+
+Para encontrar I3 despejamos de la ecuación
+
+I3 = I1 – I2 = 2.05 mA - 0.965 mA = 1.09 mA    
 
 
 
