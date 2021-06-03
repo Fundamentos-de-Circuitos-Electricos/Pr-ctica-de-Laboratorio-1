@@ -79,21 +79,21 @@ Simplificamos las ecuaciones
 
 *	-3.9kΩ· I1 + 8.3kΩ· I2 = 0
 
-Resolvemos el sistema de ecuaciones por método de reducción de Gauss Jordan, obteniendo como resultado: 
+Resolver el sistema de ecuaciones por método de reducción de Gauss Jordan, obteniendo como resultado: 
 
 I1 = 2.05 mA
 
 I2 = 0.965 mA     
 
-Por último, definimos una tercera ecuación en la cual sería por la Ley de Nodos de Kirchhoff. Las corrientes que entran a un nodo son iguales a las corrientes que salen. 
+Por último, definir una tercera ecuación en la cual sería por la Ley de Nodos de Kirchhoff. Las corrientes que entran a un nodo son iguales a las corrientes que salen. 
 
 Entonces, I1 = I2 + I3 
 
-Para encontrar I3 despejamos de la ecuación
+Para encontrar I3 se despeja de la ecuación
 
 I3 = I1 – I2 = 2.05 mA - 0.965 mA = 1.09 mA    
 
-Después para obtener los valores de los voltajes realizamos Ley de Ohm 
+Después, para obtener los valores de los voltajes de los elementos pasivos realizamosse aplica Ley de Ohm. 
 
 * Voltaje R1: VR1 = I1·R1 = 2.05 mA·1kΩ = 2.05 V 
 
@@ -105,21 +105,30 @@ Después para obtener los valores de los voltajes realizamos Ley de Ohm
 
 * Voltaje R5: VR5 = I1·R5 = 2.05 mA·1.8kΩ = 3.69 V 
 
-Finalmente, completamos la tabla con los resultados obtenidos: 
+Finalmente, completar la tabla con los resultados obtenidos: 
+
+Tabla 1.1
 
 ![image](https://user-images.githubusercontent.com/84390820/120716686-fed80400-c48b-11eb-9969-9b5c4e42d2fc.png)
 
 V. Verificar si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo.
 
-Consideramos las trayectorias del circuito del siguiente forma: 
+Consideramos las trayectorias del circuito de la siguiente forma: 
 
 ![image](https://user-images.githubusercontent.com/84390820/120724458-78c2ba00-c499-11eb-9202-9a07a8a8b3b1.png)
+
+Se adjunta los valores a la tabla 1.2: 
+
+Tabla 1.2
+
+![image](https://user-images.githubusercontent.com/84390820/120724780-1ddd9280-c49a-11eb-9f1e-5274e8327593.png)
+
 
 
 6. CONCLUSIONES
 
-- De acuerdo a las leyes de Kirchhoff, existe dos técnicas por las cuales se puede resolver un circuito electrónico, la primera se basa en las corrientes que manifiesta que la suma de corrientes que entran en un nodo será igual a la suma de corrientes que salen por dicho nodo y la segunda técnica manifiesta que la suma de caídas de voltajes en una malla será igual al valor de voltaje de la fuente de alimentación del circuito.
+- El estudio de las leyes de Kirchhoff se basa en dos técnicas por las cuales se puede resolver un circuito electrónico, la primera se basa en las corrientes que manifiesta que la suma de corrientes que entran en un nodo será igual a la suma de corrientes que salen por dicho nodo y la segunda técnica manifiesta que la suma de caídas de voltajes en una malla será igual al valor de voltaje de la fuente de alimentación del circuito.
 
 - Las leyes de Kirchhoff permite analizar de manera eficiente la tipología de circuitos eléctricos, además,  mediante cálculos matemáticos se puede obtener valores aproximados a los que se pueden obtener mediante un instrumento de medición.
 
