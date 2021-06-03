@@ -1,29 +1,4 @@
-
-UNIVERSIDAD DE LAS FUERZAS ARMADAS  ESPE
-
-
-![image](https://user-images.githubusercontent.com/85137398/120397028-36647600-c2fd-11eb-9941-39cad75ae72d.png)                                                                   
-   
-
-Departamento de Eléctrica y Electrónica y Automatización
-
-Carrera de Ingenería Electrónica y Automatización
-
-Fundamentos de Circuitos Eléctricos
-
-NRC: 5406
-
-Integrantes:
-
-Flores Granda Johan
-
-Ortega Adrian
-
-Paucar Lucio
-
-Sangolqui, 03 de Junio del 2021
-
-
+![image](https://user-images.githubusercontent.com/84390820/120563463-45ffbf80-c3ce-11eb-83c3-39fc45479d37.png)
 ________________________________________________________________________________
 # Informe de Laboratorio 
 
@@ -44,10 +19,15 @@ Específicos
 
 2. MARCO TEORICO
 
-![image](https://user-images.githubusercontent.com/85137398/120424435-f66bb600-c331-11eb-8bb0-679285e63d5f.png)
+![image](https://user-images.githubusercontent.com/84390820/120563854-3339ba80-c3cf-11eb-89db-2ca3a1e8c4ea.png)
+
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
+ 
+ * Material y equipo requerido
+ 
+![image](https://user-images.githubusercontent.com/84390820/120563174-962a5200-c3cd-11eb-8449-4e8707230eeb.png)
 
 
 
