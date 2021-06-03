@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/84390820/120563463-45ffbf80-c3ce-11eb-83c3-39fc45479d37.png)
+![image](https://user-images.githubusercontent.com/84390820/120706807-2aa0bd00-c47f-11eb-9ca7-ba590d62db62.png)
+
+
 ________________________________________________________________________________
 # Informe de Laboratorio 
 
@@ -29,12 +31,37 @@ Específicos
  
 ![image](https://user-images.githubusercontent.com/84390820/120563174-962a5200-c3cd-11eb-8449-4e8707230eeb.png)
 
+ * Armado del circuito
+ 
+Procedimiento
+
+1. Colocar, un siministro de energía de 10 volts.
+
+![image](https://user-images.githubusercontent.com/84390820/120701760-df83ab80-c478-11eb-9320-5eebb39ff753.png)
+
+2. Escoger correctamente los resistores con su codificación de colores. 
+
+![image](https://user-images.githubusercontent.com/84390820/120701782-e7dbe680-c478-11eb-97d5-e95d1d3b08d9.png)
+
+3. Conectar el circuito mediante el diagrama de conexión.
+
+* Diagrama esquemático
+
+![image](https://user-images.githubusercontent.com/84390820/120702231-73ee0e00-c479-11eb-9351-446153b76fbb.png)
+
+* Conexión del circuito
+
+![image](https://user-images.githubusercontent.com/84390820/120701875-09d56900-c479-11eb-97a7-3e5200bcc107.png)
+
+
+4. Procedemos a medir los valores de voltaje y corriente de los elementos pasivos del circuito. Utilizamos como instrumento de medida un multímetro.   
+
+
+![image](https://user-images.githubusercontent.com/84390820/120705034-eb716c80-c47c-11eb-9d3c-8f29e3d22d00.png)
+
+A continuación calculamos los valores teóricos de corriente y voltaje de los elementos pasivos, para completar la siguiente tabla: 
 
 
 
 
-
-
-
-                      
 
