@@ -142,19 +142,25 @@ VI. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, toman
 Reducimos el circuito para encontrar la resistencia equivalente
 
 Rq1=R3+R4
+
 Rq1=2.2K+2.2K
+
 Rq1=4.4K
 
 ![image](https://user-images.githubusercontent.com/84390686/120725921-95142600-c49c-11eb-8859-c81a224fe477.png)
 
 Rq2=(Rq1*R4)/(Rq1+R4)
+
 Rq2=(4.4*3.9)/(4.4+3.9)
+
 Rq2=2.07K
 
 ![image](https://user-images.githubusercontent.com/84390686/120726003-bffe7a00-c49c-11eb-943c-88401f4a9881.png)
 
 Rt=R1+R2+Rq2
+
 Rt=1+2.07+1.8
+
 Rt=4.87K
 
 ![image](https://user-images.githubusercontent.com/84390686/120726028-d1478680-c49c-11eb-860e-f9ad7fc4b795.png)
