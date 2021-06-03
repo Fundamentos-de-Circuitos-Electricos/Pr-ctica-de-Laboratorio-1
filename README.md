@@ -35,15 +35,15 @@ Específicos
  
 Procedimiento
 
-1. Colocar, un siministro de energía de 10 volts.
+I. Colocar, un siministro de energía de 10 volts.
 
 ![image](https://user-images.githubusercontent.com/84390820/120701760-df83ab80-c478-11eb-9320-5eebb39ff753.png)
 
-2. Escoger correctamente los resistores con su codificación de colores. 
+II. Escoger correctamente los resistores con su codificación de colores. 
 
 ![image](https://user-images.githubusercontent.com/84390820/120701782-e7dbe680-c478-11eb-97d5-e95d1d3b08d9.png)
 
-3. Conectar el circuito mediante el diagrama de conexión.
+III. Conectar el circuito mediante el diagrama de conexión.
 
 * Diagrama esquemático
 
@@ -54,7 +54,7 @@ Procedimiento
 ![image](https://user-images.githubusercontent.com/84390820/120701875-09d56900-c479-11eb-97a7-3e5200bcc107.png)
 
 
-4. Procedemos a medir los valores de voltaje y corriente de los elementos pasivos del circuito. Utilizamos como instrumento de medida un multímetro.   
+IV. Procedemos a medir los valores de voltaje y corriente de los elementos pasivos del circuito. Utilizamos como instrumento de medida un multímetro.   
 
 
 ![image](https://user-images.githubusercontent.com/84390820/120705034-eb716c80-c47c-11eb-9d3c-8f29e3d22d00.png)
@@ -108,6 +108,13 @@ Después para obtener los valores de los voltajes realizamos Ley de Ohm
 Finalmente, completamos la tabla con los resultados obtenidos: 
 
 ![image](https://user-images.githubusercontent.com/84390820/120716686-fed80400-c48b-11eb-9969-9b5c4e42d2fc.png)
+
+V. Verificar si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
+signo negativo.
+
+Consideramos las trayectorias del circuito del siguiente forma: 
+
+![image](https://user-images.githubusercontent.com/84390820/120724458-78c2ba00-c499-11eb-9202-9a07a8a8b3b1.png)
 
 
 6. CONCLUSIONES
