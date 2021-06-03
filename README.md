@@ -110,4 +110,14 @@ Finalmente, completamos la tabla con los resultados obtenidos:
 ![image](https://user-images.githubusercontent.com/84390820/120716686-fed80400-c48b-11eb-9969-9b5c4e42d2fc.png)
 
 
+6. CONCLUSIONES
 
+- De acuerdo a las leyes de Kirchhoff, existe dos técnicas por las cuales se puede resolver un circuito electrónico, la primera se basa en las corrientes que manifiesta que la suma de corrientes que entran en un nodo será igual a la suma de corrientes que salen por dicho nodo y la segunda técnica manifiesta que la suma de caídas de voltajes en una malla será igual al valor de voltaje de la fuente de alimentación del circuito.
+
+- Las leyes de Kirchhoff permite analizar de manera eficiente la tipología de circuitos eléctricos, además,  mediante cálculos matemáticos se puede obtener valores aproximados a los que se pueden obtener mediante un instrumento de medición.
+
+7. BIBLIOGRAFIA
+
+- Skigin.D. (2016). Ley de Ohm y de Kirchhoff. 02/06/2021. http://materias.df.uba.ar/f2qa2016c2/files/2016/08/Guia_02_Ley_de_Ohm.pdf
+
+- Ramírez Juárez A.R. (2019) Leyes de Kirchhoff. 02/06/2021. https://d1wqtxts1xzle7.cloudfront.net/63362670/Leyes_de_Kirchhoff20200519-84014-3f6yxn-with-cover-page.pdf?
