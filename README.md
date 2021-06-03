@@ -39,6 +39,8 @@ Resistores: Una resistencia o resistor al componente electrónico diseñado para
 
 Fuente de voltaje: En electrónica, el elemento activo que puede transferir energía se llama fuente de voltaje, y hay dos tipos, uno puede generar una diferencia de potencial entre sus dos extremos y el otro proporciona corriente para que funcionen otros circuitos.
 
+Multímetro digital: Un multímetro digital es una herramienta que sirve para medir dos o más valores eléctricos, principalmente tensión (voltios), corriente (amperios) y resistencia (ohmios). 
+
 
 
  * Armado del circuito
