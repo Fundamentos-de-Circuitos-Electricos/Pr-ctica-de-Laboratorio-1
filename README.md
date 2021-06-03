@@ -31,6 +31,16 @@ Específicos
  
 ![image](https://user-images.githubusercontent.com/84390820/120563174-962a5200-c3cd-11eb-8449-4e8707230eeb.png)
 
+ * Descripción de equipo y material
+ 
+Protoboard: Un protoboard es una placa de pruebas en la que se pueden insertar componentes electrónicos y cables, donde se puede ensamblar un circuito sin la necesidad de soldar ningún componente. El protoboard tiene agujeros conectados entre sí, por medio de pequeñas láminas metálicas.
+
+Resistores: Una resistencia o resistor al componente electrónico diseñado para introducir una resistencia eléctrica determinada entre dos puntos de un circuito eléctrico.
+
+Fuente de voltaje: En electrónica, el elemento activo que puede transferir energía se llama fuente de voltaje, y hay dos tipos, uno puede generar una diferencia de potencial entre sus dos extremos y el otro proporciona corriente para que funcionen otros circuitos.
+
+
+
  * Armado del circuito
  
 Procedimiento
@@ -136,4 +146,4 @@ Tabla 1.2
 
 - Skigin.D. (2016). Ley de Ohm y de Kirchhoff. 02/06/2021. http://materias.df.uba.ar/f2qa2016c2/files/2016/08/Guia_02_Ley_de_Ohm.pdf
 
-- Ramírez Juárez A.R. (2019) Leyes de Kirchhoff. 02/06/2021. https://d1wqtxts1xzle7.cloudfront.net/63362670/Leyes_de_Kirchhoff20200519-84014-3f6yxn-with-cover-page.pdf?
+- Ramírez Juárez A.R. (2019) Leyes de Kirchhoff. 02/06/2021. https://bit.ly/2SWIBgZ
