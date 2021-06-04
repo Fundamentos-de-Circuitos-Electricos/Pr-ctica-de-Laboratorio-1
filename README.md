@@ -209,6 +209,13 @@ Calculamos las intensidades de las resistencias
 
 ![image](https://user-images.githubusercontent.com/84390686/120728646-ffc86000-c4a2-11eb-95ef-b3ce0a04478b.png)
 
+SIMULACIÓN DEL CIRCUITO
+
+![image](https://user-images.githubusercontent.com/84390686/120731083-761b9100-c4a8-11eb-9bf2-9c04dbbe99c5.png)
+
+Tabla 1.3. Verificación de la LCK.
+
+![image](https://user-images.githubusercontent.com/84390686/120731153-9ba89a80-c4a8-11eb-8e07-485f19a972fd.png)
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR 
 
