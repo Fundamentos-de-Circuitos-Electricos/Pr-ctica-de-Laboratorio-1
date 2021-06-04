@@ -167,11 +167,18 @@ Reducimos el circuito para encontrar la resistencia equivalente
 
 ![image](https://user-images.githubusercontent.com/84390686/120726028-d1478680-c49c-11eb-860e-f9ad7fc4b795.png)
 
-Aplicamos la formula de la intensidad (I=\frac{V}{R_T}) para sacar la intensidad total
+Aplicamos la formula de la intensidad (I=V/Rt) para sacar la intensidad total.
+
+* I=V/Rt
+
+* I=10/4.87
+
+* I=2.053
 
 Calculamos el voltaje de cada resistencia utilizando la formula del divisor de voltaje.
 
-
+* VRq2 = Rq2 * I
+* VRq2 = 2.07 * 2.053
 
 6. CONCLUSIONES
 
