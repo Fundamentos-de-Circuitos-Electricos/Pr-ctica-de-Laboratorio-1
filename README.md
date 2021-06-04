@@ -215,7 +215,7 @@ SIMULACIÓN DEL CIRCUITO
 
 Tabla 1.3. Verificación de la LCK.
 
-![image](https://user-images.githubusercontent.com/84390686/120731153-9ba89a80-c4a8-11eb-8e07-485f19a972fd.png)
+![image](https://user-images.githubusercontent.com/84390686/120731251-d8749180-c4a8-11eb-9b05-213bb93e47f9.png)
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR 
 
