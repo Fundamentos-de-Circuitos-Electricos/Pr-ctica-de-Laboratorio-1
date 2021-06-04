@@ -199,7 +199,7 @@ Calculamos las intensidades de las resistencias
 
 ![image](https://user-images.githubusercontent.com/84390686/120727308-cd693380-c49f-11eb-82eb-29a5ee2644c6.png)
 
-
+* 
 
 6. CONCLUSIONES
 
