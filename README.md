@@ -197,7 +197,7 @@ Calculamos las intensidades de las resistencias
 
 * I4 = 0.966
 
-![image](https://user-images.githubusercontent.com/84390686/120728510-b37d2000-c4a2-11eb-8788-cc5fa491b904.png)
+![image](https://user-images.githubusercontent.com/84390686/120728756-3605df80-c4a3-11eb-8c25-851d79af6cd5.png)
 
 * VR2 = R2 * I3
 
