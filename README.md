@@ -178,7 +178,28 @@ Aplicamos la formula de la intensidad (I=V/Rt) para sacar la intensidad total.
 Calculamos el voltaje de cada resistencia utilizando la formula del divisor de voltaje.
 
 * VRq2 = Rq2 * I
+
 * VRq2 = 2.07 * 2.053
+
+* VRq2 = 4.25V
+
+![image](https://user-images.githubusercontent.com/84390686/120726869-c3930080-c49e-11eb-827a-3c56f8d73378.png)
+
+Calculamos las intensidades de las resistencias
+
+* VRq2 = VR2 = VRq1
+
+* VRq1 = Rq1 * I2
+
+* 4.25  = 4.4 * I2
+
+* I2 = 0.966
+
+* I4 = 0.966
+
+![image](https://user-images.githubusercontent.com/84390686/120727308-cd693380-c49f-11eb-82eb-29a5ee2644c6.png)
+
+
 
 6. CONCLUSIONES
 
