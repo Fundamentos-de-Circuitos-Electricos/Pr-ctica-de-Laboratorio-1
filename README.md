@@ -149,7 +149,7 @@ Reducimos el circuito para encontrar la resistencia equivalente
 
 * Rq1=4.4K
 
-![image](https://user-images.githubusercontent.com/84390686/120727435-25a03580-c4a0-11eb-91d3-68fc9a7f4729.png)
+![image](https://user-images.githubusercontent.com/84390686/120725921-95142600-c49c-11eb-8859-c81a224fe477.png)
 
 * Rq2=(Rq1*R4)/(Rq1+R4)
 
@@ -157,7 +157,7 @@ Reducimos el circuito para encontrar la resistencia equivalente
 
 * Rq2=2.07K
 
-![image](https://user-images.githubusercontent.com/84390686/120727527-60a26900-c4a0-11eb-82fa-149927c8215c.png)
+![image](https://user-images.githubusercontent.com/84390686/120726003-bffe7a00-c49c-11eb-943c-88401f4a9881.png)
 
 * Rt=R1+R2+Rq2
 
@@ -169,37 +169,33 @@ Reducimos el circuito para encontrar la resistencia equivalente
 
 Aplicamos la formula de la intensidad (I=V/Rt) para sacar la intensidad total.
 
-* I1=V/Rt
+* I=V/Rt
 
-* I1=10/4.87
+* I=10/4.87
 
-* I1=2.053
+* I=2.053
 
 Calculamos el voltaje de cada resistencia utilizando la formula del divisor de voltaje.
 
-* VRq2 = Rq2 * I1
-
+* VRq2 = Rq2 * I
 * VRq2 = 2.07 * 2.053
 
-* VRq2 = 4.25V
+4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR 
 
-![image](https://user-images.githubusercontent.com/84390686/120727589-89c2f980-c4a0-11eb-9520-b2a5aa94b626.png)
+Para calcular el porcentaje de error de las mediciones, se tiene en cuenta la siguiente fórmula:
 
-Calculamos las intensidades de las resistencias
+![image](https://user-images.githubusercontent.com/84390820/120727341-ea056b80-c49f-11eb-9975-7ab61568261a.png)
 
-* VRq2 = VR2 = VRq1
+Con lo que se obtiene los siguientes resultados: 
 
-* VRq1 = Rq1 * I2
+![image](https://user-images.githubusercontent.com/84390820/120727400-115c3880-c4a0-11eb-9a07-541620a88710.png)
 
-* 4.25  = 4.4 * I2
+Analisis de Resultados
 
-* I2 = 0.966
+En el cálculo del porcentaje de error, se verifica que el margen de error es menor al 0.30 %, es decir los cálculos fueron correctos teoricamente y por medición del multímetro, porque no existe un margen de error que represente un valor mal calculado. 
 
-* I4 = 0.966
+5. VIDEO
 
-![image](https://user-images.githubusercontent.com/84390686/120727308-cd693380-c49f-11eb-82eb-29a5ee2644c6.png)
-
-* 
 
 6. CONCLUSIONES
 
