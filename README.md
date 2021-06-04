@@ -183,7 +183,7 @@ Calculamos el voltaje de cada resistencia utilizando la formula del divisor de v
 
 * VRq2 = 4.25V
 
-![image](https://user-images.githubusercontent.com/84390686/120728157-e672e400-c4a1-11eb-8804-f300b86ff4ca.png)
+![image](https://user-images.githubusercontent.com/84390686/120728981-a6146580-c4a3-11eb-900d-0cd05b6c1a38.png)
 
 Calculamos las intensidades de las resistencias
 
