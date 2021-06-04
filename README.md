@@ -233,6 +233,7 @@ En el cálculo del porcentaje de error, se verifica que el margen de error es me
 
 5. VIDEO
 
+https://www.youtube.com/watch?v=T7HmfYVnSNg
 
 6. CONCLUSIONES
 
