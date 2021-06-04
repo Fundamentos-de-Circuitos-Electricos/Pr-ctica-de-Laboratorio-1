@@ -227,7 +227,7 @@ Con lo que se obtiene los siguientes resultados:
 
 ![image](https://user-images.githubusercontent.com/84390820/120727400-115c3880-c4a0-11eb-9a07-541620a88710.png)
 
-Analisis de Resultados
+Análisis de Resultados
 
 En el cálculo del porcentaje de error, se verifica que el margen de error es menor al 0.30 %, es decir los cálculos fueron correctos teoricamente y por medición del multímetro, porque no existe un margen de error que represente un valor mal calculado. 
 
